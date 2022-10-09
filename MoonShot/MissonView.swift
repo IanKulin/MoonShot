@@ -13,6 +13,7 @@ struct CrewMember {
     let astronaut: Astronaut
 }
 
+
 struct MissionView: View {
     let mission: Mission
     let crew: [CrewMember]
